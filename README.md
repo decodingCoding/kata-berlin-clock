@@ -13,6 +13,10 @@
 #### To Run individual test cases on cli prompt :  Test[FILE_NAME] or Test[FILE_NAME].m
 
 
-## Run the application using Command line
+## To get the Berlin Clock  using Command line
 #### Run Octave cli
 #### Run file (function) getBerlinClockTime on cli prompt e.g. getBerlinClockTime("00:00:00") or getBerlinClockTime.m("00:00:00") or refer file TestBerlinClockTime.m
+
+## To get convert time  using Command line
+#### Run Octave cli
+#### Run file (function) convertTime on cli prompt e.g. convertTime("YRRROROOOYYRYYRYYRYOOOOO") or getBerlinClockTime.m("YRRROROOOYYRYYRYYRYOOOOO")
