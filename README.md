@@ -19,4 +19,4 @@
 
 ## To get convert time  using Command line
 #### Run Octave cli
-#### Run file (function) convertTime on cli prompt e.g. convertTime("YRRROROOOYYRYYRYYRYOOOOO") or getBerlinClockTime.m("YRRROROOOYYRYYRYYRYOOOOO")
+#### Run file (function) convertTime on cli prompt e.g. convertTime("YRRROROOOYYRYYRYYRYOOOOO") or convertTime.m("YRRROROOOYYRYYRYYRYOOOOO")
