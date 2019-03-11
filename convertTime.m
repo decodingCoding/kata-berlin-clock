@@ -1,6 +1,6 @@
 function [result] = convertTime(row)
       
-        seconds = num2str(convertSecondsLamp(row(1))*randi([1,60]));     
+        seconds = num2str(convertSecondsLamp(row(1)));     
         c5hours = convert5Hour(row(2:5));
         c1hours = convert1Hour(row(6:9));
 
