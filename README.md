@@ -9,7 +9,7 @@
 
 ## Test the application using Command line
 #### Run Octave cli
-#### To Run all test cases at once run on cli prompt :  TestAll or Test.m
+#### To Run all test cases at once run on cli prompt :  TestAll or TestAll.m
 #### To Run individual test cases on cli prompt :  Test[FILE_NAME] or Test[FILE_NAME].m
 
 
